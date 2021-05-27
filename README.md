@@ -2,7 +2,7 @@
 
 Flutter Pinterest UI Made With Love 
 
-![App Image] (https://raw.githubusercontent.com/abhishekdana1999/flutter-Insta-Code/FlutPinterest/s.jpg)
+![App Image](https://raw.githubusercontent.com/abhishekdana1999/flutter-Insta-Code/FlutPinterest/s.jpg)
 
 ## Getting Started
 
