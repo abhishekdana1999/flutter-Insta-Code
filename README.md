@@ -1,6 +1,8 @@
-# Day_1
+# TRIP UI 
 
-A new Flutter project.
+TRIP UI MADE WITH LOVE FROM INSPIRATION FROM PINSTEREST
+
+![App Image](https://raw.githubusercontent.com/abhishekdana1999/flutter-Insta-Code/TripAppUI/assets/images/Component%201.png)
 
 ## Getting Started
 
