@@ -1,6 +1,6 @@
 # Custom Bottom Navigation 
 
-Custom Bottom Navgation with libraby 
+Custom Bottom Navgation without library 
 
 ![CustomBottomNavigation](https://github.com/abhishekdana1999/flutter-Insta-Code/blob/customBottomNavigation/customBottomNavigation.jpg)
 
