@@ -1,6 +1,8 @@
-# Day_1
+# Custom Bottom Navigation 
 
-A new Flutter project.
+Custom Bottom Navgation with libraby 
+
+![CustomBottomNavigation](https://github.com/abhishekdana1999/flutter-Insta-Code/blob/customBottomNavigation/customBottomNavigation.jpg)
 
 ## Getting Started
 
