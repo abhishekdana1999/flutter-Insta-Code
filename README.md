@@ -1,7 +1,7 @@
-# Day_1
+# Flutter animated drawer
 
-A new Flutter project.
-
+Flutter animated drawer without any package or library code
+![Flutter animated drawer](https://github.com/abhishekdana1999/flutter-Insta-Code/blob/animatedDrawer/Component%202.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
